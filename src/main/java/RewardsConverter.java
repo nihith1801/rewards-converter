@@ -9,7 +9,7 @@ class RewardValue {
         this.cashValue = cashValue;
     }
 
-    // Getter method for miles
+    // Getter method for miles.
     public double getMilesValue() {
         miles = cashValue / 0.035;
         return miles;
