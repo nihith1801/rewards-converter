@@ -4,7 +4,7 @@ class RewardValue {
     private double cashValue;
     private double miles;
 
-    // Constructor to initialize cashValue.
+    // Constructor to initialize cashValue
     public RewardValue(double cashValue) {
         this.cashValue = cashValue;
     }
